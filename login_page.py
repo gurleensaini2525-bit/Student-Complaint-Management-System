@@ -111,14 +111,4 @@ def create_account():
 signup_button=ctK.CTkButton(app,text="SIGN UP",width=200,height=40,fg_color="#3498DB",hover_color="#217DBB",command=create_account)
 signup_button.pack(pady=10)
 
-
-
-
-
-
-
-
-
-
-
 app.mainloop()
